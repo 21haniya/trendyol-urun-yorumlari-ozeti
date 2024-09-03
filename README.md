@@ -16,6 +16,10 @@ pip install selenium
 Projeyi çalıştırmak için aşağıdaki komutu kullanın:
 streamlit run proje_ek.py
 
+
+**Not:** Bu kodu çalıştırmak için OpenAi'nin sunduğu API KEY 'e sahip olmalısınız. 
+
+
 ### Kullanım
 
 1. Uygulamayı başlattıktan sonra, ekranda çıkan arama çubuğuna ürünün bağlantısını ekleyin.
