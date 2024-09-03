@@ -5,19 +5,19 @@ Bu proje, Trendyol'daki ürün yorumlarını çekip özetleyen bir uygulamadır.
 
 Proje Python 3.12.5 ile çalışmaktadır.
 
+**Not:** Bu kodu çalıştırmak için OpenAi'nin sunduğu API KEY'e sahip olmalısınız.
+
+
+
 Gerekli kütüphaneleri yükleyin:
 
 ```bash
-
 pip install streamlit
 pip install openai
 pip install selenium
 
 Projeyi çalıştırmak için aşağıdaki komutu kullanın:
 streamlit run proje_ek.py
-
-
-**Not:** Bu kodu çalıştırmak için OpenAi'nin sunduğu API KEY 'e sahip olmalısınız. 
 
 
 ### Kullanım
